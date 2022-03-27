@@ -25,3 +25,5 @@ print(f"\nProporciona el alto: {alto}cm")
 print(f"Proporciona el ancho: {ancho}cm")
 print(f"Área: <{A}cm>")
 print(f"Perímetro: <{P}cm>\n")
+
+#fin
